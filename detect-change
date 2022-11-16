@@ -1,0 +1,3 @@
+## --quite can be used an look at exit code.
+## can also error if HEAD^ doesn't exist yet.
+git diff HEAD 'HEAD^' -- grafana
