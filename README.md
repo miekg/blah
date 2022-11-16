@@ -53,3 +53,7 @@ grafana.atoom.net {
         /var/lib/grafana/dashboards -> grafana/dashboards
 }
 ~~~
+
+## Code
+
+Do we need plugins for this things? Maybe other type of remotes, like mercurial or something?
